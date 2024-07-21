@@ -1,0 +1,10 @@
+git switch -c development 
+
+
+fix bug
+
+    git push
+
+    git push --set-upstream origin development
+
+    git push -u origin development
